@@ -2,7 +2,7 @@ package com.Nexus;
 
 import java.sql.SQLOutput;
 
-public class Main {
+public class min {
 
     public static void main(String[] args) {
 //varaibles. types of variables in java are int, string, float,boolean, char
